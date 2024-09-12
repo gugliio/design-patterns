@@ -1,8 +1,14 @@
 addReviewers: true
 
+reviewers: 
+  - arielgugliotta
+  - gugliio
+
 addAssignees: author
 
-reviewers:
-  - arielgugliotta
+skipKeywords:
+  - wip
+  - release
+  - backport
 
-numberOfReviewers: 1
+numberOfReviewers: 0
