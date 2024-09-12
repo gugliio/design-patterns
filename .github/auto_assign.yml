@@ -1,0 +1,9 @@
+addReviewers: true
+
+addAssignees: author
+
+reviewers:
+  - gugliio
+  - arielgugliotta
+
+numberOfReviewers: 0
